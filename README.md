@@ -3,7 +3,7 @@ Dominion
 
 © Andrew Crocker, Tommy Markley, Warren Shull, Fall 2011
 
-This C++ project simulates the card game with an interactive GUI using OpenGL.
+This C++ project simulates the card game Dominion with an interactive GUI using OpenGL.
 
 ==============================================================================
 
